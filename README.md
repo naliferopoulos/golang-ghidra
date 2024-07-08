@@ -2,7 +2,7 @@
 
 This extension implements the Golang calling convention and
 auto analysis modules for Golang binaries.
-
+i
 It currently supports:
 - Extraction of static Go strings
 - Parsing of various Go compiler structures
